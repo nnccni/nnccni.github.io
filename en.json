@@ -1,0 +1,21 @@
+{
+  "logo": "https://novamedia-prog.github.io/logo-english.png",
+
+  "menu.home": "Home",
+  "menu.about": "About",
+  "menu.activity": "Activity",
+  "menu.labs": "Laboratories",
+  "menu.info": "Information",
+  "menu.news": "News",
+  "menu.contacts": "Contacts",
+  "menu.operational": "Operational Info",
+
+  "hero.title": "Seismology Research Center",
+  "hero.subtitle": "Research and monitoring of seismic activity in Kazakhstan",
+  "hero.button": "Learn more",
+
+  "footer.address": "Address: Kazakhstan, Astana",
+  "footer.phone": "Phone: +7 (000) 000-00-00",
+  "footer.email": "E-mail: info@seismology.kz",
+  "footer.rights": "All rights reserved"
+}
