@@ -14,6 +14,12 @@
   "hero.subtitle": "Research and monitoring of seismic activity in Kazakhstan",
   "hero.button": "Learn more",
 
+  "hero.title": "Тұрақты болашақ үшін озық зерттеулер",
+  "hero.subtitle": "«Сейсмологиялық байқау және зерттеулер ұлттық ғылыми орталығы» ЖШС — Қазақстан Республикасындағы сейсмология, геофизика және сейсмикалық қауіпті болжау саласындағы жетекші ұйым.",
+  "hero.btn.services": "Біздің қызметтер",
+  "hero.btn.contact": "Байланысу"
+
+  
   "footer.address": "Address: Kazakhstan, Astana",
   "footer.phone": "Phone: +7 (000) 000-00-00",
   "footer.email": "E-mail: info@seismology.kz",
