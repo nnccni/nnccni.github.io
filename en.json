@@ -8,18 +8,14 @@
   "menu.info": "Information",
   "menu.news": "News",
   "menu.contacts": "Contacts",
-  "menu.operational": "Operational Info",
+  "menu.operational": "Operational Information",
 
-  "hero.title": "Seismology Research Center",
-  "hero.subtitle": "Research and monitoring of seismic activity in Kazakhstan",
+  "hero.title": "Advanced research for a sustainable future",
+  "hero.subtitle": "The National Scientific Center for Seismological Observations and Research is the leading organization of the Republic of Kazakhstan in the field of seismology, geophysics, and seismic hazard forecasting.",
   "hero.button": "Learn more",
+  "hero.btn.services": "Our services",
+  "hero.btn.contact": "Contact us",
 
-  "hero.title": "Тұрақты болашақ үшін озық зерттеулер",
-  "hero.subtitle": "«Сейсмологиялық байқау және зерттеулер ұлттық ғылыми орталығы» ЖШС — Қазақстан Республикасындағы сейсмология, геофизика және сейсмикалық қауіпті болжау саласындағы жетекші ұйым.",
-  "hero.btn.services": "Біздің қызметтер",
-  "hero.btn.contact": "Байланысу"
-
-  
   "footer.address": "Address: Kazakhstan, Astana",
   "footer.phone": "Phone: +7 (000) 000-00-00",
   "footer.email": "E-mail: info@seismology.kz",
