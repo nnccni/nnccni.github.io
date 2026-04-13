@@ -10,6 +10,16 @@
   "menu.contacts": "Contacts",
   "menu.operational": "Operational Information",
 
+    "menu.labs.lgsp": "Laboratory of Geodynamic and Seismic Processes",
+  "menu.labs.lrs": "Laboratory of Regional Seismicity",
+  "menu.labs.lts": "Laboratory of Induced Seismicity",
+  "menu.labs.lkpz": "Laboratory of Integrated Earthquake Forecasting",
+  "menu.labs.lfrzk": "Laboratory of Fluid Regime of the Earth's Crust",
+  "menu.labs.lgszk": "Laboratory of Deep Structure of the Earth's Crust",
+  "menu.labs.lis": "Laboratory of Engineering Seismology",
+  "menu.labs.lszs": "Laboratory of Seismic Resistance of Buildings and Structures",
+  "menu.labs.ldzzk": "Laboratory of Remote Sensing of the Earth and Cartography",
+
   "hero.title": "Advanced research for a sustainable future",
   "hero.subtitle1": "«National Center for Seismological Observations and Research» is the leading organization of the Republic of Kazakhstan in the field of seismology, geophysics, and seismic hazard forecasting.",
   "hero.button": "Learn more",
