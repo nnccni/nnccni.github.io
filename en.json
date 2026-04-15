@@ -9,9 +9,23 @@
   "menu.news": "News",
   "menu.contacts": "Contacts",
   "menu.operational": "Operational Information",
-  "about.history": "History of NCSOaR",
+  
+  "submenu.about.0": "NCSOaR History",
+  "submenu.about.1": "Management",
+  "submenu.about.2": "Structure of the Scientific Center",
+  "submenu.about.3": "Administrative and Support Service",
+  "submenu.about.4": "Department of Scientific, Technical and International Projects",
+  "submenu.about.5": "Media About Us",
 
-    "menu.labs.lgsp": "Laboratory of Geodynamic and Seismic Processes",
+  "submenu.activity.0": "Scientific Conference",
+  "submenu.activity.1": "Research Work",
+  "submenu.activity.2": "International Cooperation",
+  "submenu.activity.3": "Scientific Publications",
+  "submenu.activity.4": "Center Services",
+  "submenu.activity.5": "Public Procurement",
+  "submenu.activity.6": "Anti‑Corruption Compliance Service",}
+
+  "menu.labs.lgsp": "Laboratory of Geodynamic and Seismic Processes",
   "menu.labs.lrs": "Laboratory of Regional Seismicity",
   "menu.labs.lts": "Laboratory of Induced Seismicity",
   "menu.labs.lkpz": "Laboratory of Integrated Earthquake Forecasting",
