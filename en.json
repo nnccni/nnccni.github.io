@@ -54,7 +54,7 @@
   "footer.email": "E-mail: info@seismology.kz",
   "footer.rights": "All rights reserved",
   "ft.sbt": "Advanced research in Earth sciences, innovative technologies, and international cooperation.",
-  "ft.c": "© 2026 National Center for Seismological Observations and Research. All rights reserved.",
-  "ft.s": "Founded in 1976 | LLP «NCSOaR»",
-  "ft.nav": "Navigation"
+  "ftc": "© 2026 National Center for Seismological Observations and Research. All rights reserved.",
+  "fts": "Founded in 1976 | LLP «NCSOaR»",
+  "ftnav": "Navigation"
 }
