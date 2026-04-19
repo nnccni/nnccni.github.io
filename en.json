@@ -72,30 +72,14 @@
   "serviceblock4": "Continuous Seismic Observation",
   
 "partners.title": "Our Partners",
-
-"partners.1.name": "UNESCO",
-"partners.1.desc": "United Nations Educational, Scientific and Cultural Organization",
-
-"partners.2.name": "Japan International Cooperation Agency (JICA)",
-"partners.2.desc": "Japan’s international development and cooperation agency",
-
-"partners.3.name": "Unified Geophysical Service of the Russian Academy of Sciences",
-"partners.3.desc": "Russian Federation center for seismic and geophysical monitoring",
-
-"partners.4.name": "Institute of Seismology, Academy of Sciences of Uzbekistan",
-"partners.4.desc": "National center for seismic research in Uzbekistan",
-
-"partners.5.name": "Institute of Seismology, National Academy of Sciences of Kyrgyz Republic",
-"partners.5.desc": "Seismological research institute of Kyrgyzstan",
-
-"partners.6.name": "International Institute of Seismology and Earthquake Engineering (Japan, Tsukuba)",
-"partners.6.desc": "International research center for seismology and earthquake engineering",
-
-"partners.7.name": "SPC “Vulkan”",
-"partners.7.desc": "Developer of seismic instruments and monitoring technologies",
-
-"partners.8.name": "Helmholtz Centre Potsdam GFZ (Germany)",
-"partners.8.desc": "Leading German research center for Earth sciences",
+"partners.1": "UNESCO",
+"partners.2": "Japan International Cooperation Agency (JICA)",
+"partners.3": "Unified Geophysical Service of the Russian Academy of Sciences",
+"partners.4": "Institute of Seismology, Academy of Sciences of Uzbekistan",
+"partners.5": "Institute of Seismology, National Academy of Sciences of Kyrgyz Republic",
+"partners.6": "International Institute of Seismology and Earthquake Engineering (Japan, Tsukuba)",
+"partners.7": "SPC “Vulkan”",
+"partners.8": "Helmholtz Centre Potsdam GFZ (Germany)",
 
   "footer.address": "Address: Kazakhstan, Astana",
   "footer.phone": "Phone: +7 (000) 000-00-00",
