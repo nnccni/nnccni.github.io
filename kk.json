@@ -7,7 +7,7 @@
   "menu.labs": "Зертханалар",
   "menu.info": "Ақпарат",
   "menu.news": "Жаңалықтар",
-  "menu.contacts": "Байланыс",
+  "menu.contacts": "Байланыстар",
   "menu.operational": "Оперативтік ақпарат",
 
   "submenu.about.0": "ННЦСНИ тарихы",
@@ -24,6 +24,12 @@
   "submenu.activity.4": "Ғылыми орталық қызметтері",
   "submenu.activity.5": "Мемлекеттік сатып алулар",
   "submenu.activity.6": "Сыбайлас жемқорлыққа қарсы комплаенс қызметі",
+
+  "contacts.title": "Байланыстар",
+  "contacts.phone": "+7 727 269 46 14",
+  "contacts.email": "seismology@seismology.kz",
+  "contacts.address": "Алматы, Әл-Фараби, 75 А",
+  "contacts.org": "«Сейсмологиялық бақылаулар мен зерттеулердің ұлттық ғылыми орталығы» ЖШС",
 
   "menu.labs.lgsp": "Геодинамика және сейсмикалық процестер зертханасы",
   "menu.labs.lrs": "Аймақтық сейсмичность зертханасы",
